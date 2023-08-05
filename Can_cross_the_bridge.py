@@ -1,0 +1,5 @@
+x=int(input())
+y=int(input())
+z=int(input())
+t=int((z-y)/x)
+print("%d"%t)
