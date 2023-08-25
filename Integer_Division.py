@@ -1,3 +1,3 @@
-a=int(input())
-x=a//10
-print(f"{x}")
+n=int(input())
+a=n//10
+print(a)
